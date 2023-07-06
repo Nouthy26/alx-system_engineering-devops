@@ -1,1 +1,1 @@
-Shell permissons readme
+Shell permissions readme
